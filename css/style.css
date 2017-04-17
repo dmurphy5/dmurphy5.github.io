@@ -1,0 +1,41 @@
+
+.hero {
+    background-image: url('https://image.ibb.co/fTetVk/inggrid_koe_205694.jpg');
+}
+
+
+
+/*.title {
+    font-size: 3rem;
+}
+
+.subtitle {
+    font-size: 1.89rem;
+}*/
+
+.is-outlined {
+    background-color: transparent;
+}
+
+
+
+
+#about-img {
+    height: 40%;
+    width: 40%;
+    border-radius: 50%;
+    margin: auto;
+}
+
+#portfolio-img {
+    margin: auto;
+}
+
+#contact-list {
+    margin-left: 37%;
+    font-size: 1.1rem;
+}
+
+.icon {
+    margin-right: 30px;
+}
