@@ -1,9 +1,13 @@
 
 .hero {
-    background-image: url('https://image.ibb.co/fTetVk/inggrid_koe_205694.jpg');
+    background: url('http://i.imgur.com/UkQTpFh.jpg');
+    background-size: cover;
 }
 
-
+#about, #portfolio, #contact {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 
 /*.title {
     font-size: 3rem;
@@ -31,9 +35,16 @@
     margin: auto;
 }
 
+.card-content {
+    height: 195px;
+}
+
 #contact-list {
-    margin-left: 37%;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
+}
+
+li {
+    margin-top: 50px;
 }
 
 .icon {
