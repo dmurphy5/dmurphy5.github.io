@@ -50,6 +50,10 @@ hr {
     margin: auto;
 }
 
+.image img {
+    min-height: 202px;
+}
+
 .card-content {
     height: 195px;
 }
